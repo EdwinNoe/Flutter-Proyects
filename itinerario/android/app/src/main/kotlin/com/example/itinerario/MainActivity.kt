@@ -1,0 +1,5 @@
+package com.example.itinerario
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
